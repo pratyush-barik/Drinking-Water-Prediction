@@ -28,11 +28,6 @@ The dataset contains the following features:
 - Confusion Matrix
 - Precision, Recall, F1-Score
 
-## 🔧 Requirements
-```bash
-pip install -r requirements.txt
-```
-
 ## 📁 File Description
 - `Drinking_Water_Prediction.ipynb`: Jupyter notebook with data preprocessing, model training, and evaluation.
 
