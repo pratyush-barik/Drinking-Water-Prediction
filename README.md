@@ -15,8 +15,6 @@ The dataset contains the following features:
 - `Turbidity`
 - `Potability` (Target: 1 = Safe, 0 = Not Safe)
 
-_Source_: [Kaggle - Water Potability Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
-
 ## 📊 ML Models Used
 - Logistic Regression
 - Decision Tree
