@@ -1,8 +1,8 @@
-# Drinking Water Potability Prediction 🚰
+# Drinking Water Potability Prediction 
 
 This project predicts whether drinking water is **safe or not** using machine learning models based on physicochemical features.
 
-## 📌 Dataset
+## Dataset
 The dataset contains the following features:
 - `ph`
 - `Hardness`
@@ -15,7 +15,7 @@ The dataset contains the following features:
 - `Turbidity`
 - `Potability` (Target: 1 = Safe, 0 = Not Safe)
 
-## 📊 ML Models Used
+## ML Models Used
 - Logistic Regression
 - Decision Tree
 - Random Forest
@@ -23,16 +23,13 @@ The dataset contains the following features:
 - Support Vector Machine
 - K-Nearest Neighbors
 
-## 📈 Performance Metrics
+## Performance Metrics
 - Accuracy
 - Confusion Matrix
 - Precision, Recall, F1-Score
 
-## 📁 File Description
+## File Description
 - `Drinking_Water_Prediction.ipynb`: Jupyter notebook with data preprocessing, model training, and evaluation.
 
-## ✅ Output
+## Output
 The model evaluates various algorithms and compares their performance to find the best predictor for safe drinking water.
-
-## 📬 Contact
-Feel free to connect or raise issues!
